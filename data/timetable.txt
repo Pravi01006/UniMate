@@ -1,0 +1,14 @@
+
+Sample College Timetable
+
+Monday:
+9:00 AM - 10:00 AM: Computer Networks
+10:00 AM - 11:00 AM: Python Programming
+11:30 AM - 12:30 PM: Database Management Systems
+
+Tuesday:
+9:00 AM - 10:00 AM: Data Structures
+10:00 AM - 11:00 AM: Computer Networks
+11:30 AM - 12:30 PM: Python Programming
+
+Note: This is sample timetable data for testing only.

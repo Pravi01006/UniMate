@@ -1,0 +1,9 @@
+
+Q: What is UniMate?
+A: UniMate is a smart campus assistant that helps students find college information.
+
+Q: What information can UniMate provide?
+A: UniMate can answer questions using campus FAQs, timetables, syllabuses, and notices.
+
+Q: How can I contact the college office?
+A: Please check your college's official website or notice board for the office contact details.

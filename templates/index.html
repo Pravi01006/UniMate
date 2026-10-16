@@ -1,0 +1,48 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UniMate - Smart Campus Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div class="chat-container">
+
+        <header class="chat-header">
+            <div class="logo">🎓</div>
+            <div>
+                <h1>UniMate</h1>
+                <p>Your Campus, One Chat Away.</p>
+            </div>
+        </header>
+
+        <div class="chat-box" id="chatBox">
+            <div class="message bot-message">
+                <strong>UniMate 🤖</strong>
+                <p>Hello! Welcome to UniMate. How can I help you today?</p>
+            </div>
+        </div>
+
+        <form class="chat-input-area" id="chatForm">
+            <input
+                type="text"
+                id="userInput"
+                placeholder="Ask about timetables, syllabus, notices..."
+                autocomplete="off"
+                required
+            >
+            <button type="submit">Send</button>
+        </form>
+
+       
+
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
+

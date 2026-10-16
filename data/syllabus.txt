@@ -1,0 +1,14 @@
+```text
+Sample BCA Syllabus
+
+Subject: Computer Networks
+Topics: Introduction to Computer Networks, OSI Model and TCP/IP Model, Network Topologies, Data Transmission, Network Devices, Routing and Switching.
+
+Subject: Python Programming
+Topics: Variables and Data Types, Conditional Statements, Loops, Functions, Lists and Dictionaries, File Handling.
+
+Subject: Database Management Systems (DBMS)
+Topics: Introduction to DBMS, ER Model, Relational Model, SQL Queries, Normalization, Transactions.
+
+Note: This is sample syllabus data for testing only.
+```
